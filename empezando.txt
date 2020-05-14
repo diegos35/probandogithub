@@ -1,1 +1,2 @@
 esto es un breve empenzando git
+estamos sobre la rama cabecera
